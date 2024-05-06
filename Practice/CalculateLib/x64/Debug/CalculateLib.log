@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\Kirill\source\repos\Practice\CalculateLib\Source.cpp(69,42): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/Source.cpp")
+  
+C:\Users\Kirill\source\repos\Practice\CalculateLib\Source.cpp(70,42): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/Source.cpp")
+  
+dllmain.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+     Создается библиотека C:\Users\Kirill\source\repos\Practice\x64\Debug\CalculateLib.lib и объект C:\Users\Kirill\source\repos\Practice\x64\Debug\CalculateLib.exp
+  CalculateLib.vcxproj -> C:\Users\Kirill\source\repos\Practice\x64\Debug\CalculateLib.dll
+  Скопировано файлов:         1.

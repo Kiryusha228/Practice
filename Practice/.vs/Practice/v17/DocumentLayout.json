@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kirill\\source\\repos\\Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F070CE20-78C7-4D31-98AD-B39A894A57BE}|Practice\\Practice.csproj|c:\\users\\kirill\\source\\repos\\practice\\practice\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F070CE20-78C7-4D31-98AD-B39A894A57BE}|Practice\\Practice.csproj|solutionrelative:practice\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D86308-32A3-45CA-AB1D-F58C443968EC}|CalculateLib\\CalculateLib.vcxproj|C:\\Users\\Kirill\\source\\repos\\Practice\\CalculateLib\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95D86308-32A3-45CA-AB1D-F58C443968EC}|CalculateLib\\CalculateLib.vcxproj|solutionrelative:CalculateLib\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F070CE20-78C7-4D31-98AD-B39A894A57BE}|Practice\\Practice.csproj|C:\\Users\\Kirill\\source\\repos\\Practice\\practice\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F070CE20-78C7-4D31-98AD-B39A894A57BE}|Practice\\Practice.csproj|solutionrelative:practice\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D86308-32A3-45CA-AB1D-F58C443968EC}|CalculateLib\\CalculateLib.vcxproj|C:\\Users\\Kirill\\source\\repos\\Practice\\CalculateLib\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95D86308-32A3-45CA-AB1D-F58C443968EC}|CalculateLib\\CalculateLib.vcxproj|solutionrelative:CalculateLib\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F070CE20-78C7-4D31-98AD-B39A894A57BE}|Practice\\Practice.csproj|C:\\Users\\Kirill\\source\\repos\\Practice\\practice\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F070CE20-78C7-4D31-98AD-B39A894A57BE}|Practice\\Practice.csproj|solutionrelative:practice\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Kirill\\source\\repos\\Practice\\CalculateLib\\Source.cpp",
+              "RelativeDocumentMoniker": "CalculateLib\\Source.cpp",
+              "ToolTip": "C:\\Users\\Kirill\\source\\repos\\Practice\\CalculateLib\\Source.cpp",
+              "RelativeToolTip": "CalculateLib\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-06T11:05:16.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "C:\\Users\\Kirill\\source\\repos\\Practice\\CalculateLib\\pch.cpp",
+              "RelativeDocumentMoniker": "CalculateLib\\pch.cpp",
+              "ToolTip": "C:\\Users\\Kirill\\source\\repos\\Practice\\CalculateLib\\pch.cpp",
+              "RelativeToolTip": "CalculateLib\\pch.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-06T11:04:37.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Kirill\\source\\repos\\Practice\\Practice\\App.xaml",
+              "RelativeDocumentMoniker": "Practice\\App.xaml",
+              "ToolTip": "C:\\Users\\Kirill\\source\\repos\\Practice\\Practice\\App.xaml",
+              "RelativeToolTip": "Practice\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-04T20:52:12.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Kirill\\source\\repos\\Practice\\Practice\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Practice\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Kirill\\source\\repos\\Practice\\Practice\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Practice\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAcwJwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T20:20:28.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Kirill\\source\\repos\\Practice\\Practice\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Practice\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Kirill\\source\\repos\\Practice\\Practice\\MainWindow.xaml",
+              "RelativeToolTip": "Practice\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-04T20:20:46.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
